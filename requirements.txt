@@ -25,7 +25,7 @@ debugpy==1.8.1
 decorator==4.4.2
 defusedxml==0.7.1
 # Editable install with no version control (DiamondPricePrediction==0.0.1)
--e h:\mlprojectscqai\diamondpriceprediction2
+#-e h:\mlprojectscqai\diamondpriceprediction2
 distlib==0.3.8
 executing==2.0.1
 fastjsonschema==2.19.1
