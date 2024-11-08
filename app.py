@@ -552,7 +552,7 @@ elif function_choice == "Principal Component Analysis (PCA)":
 
     # Additional Explanations
     st.subheader("Understanding the Visualization")
-    st.write("""
+    st.write(r"""
     - **Original Data Plot:** Shows the data in its original dimensions.
     - **Transformed Data Plot:** Displays the data projected onto the selected principal components.
     - **Projection Animation:** Animates the projection of data from the original space to the reduced space.
